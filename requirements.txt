@@ -1,0 +1,6 @@
+pandas
+openpyxl
+sqlalchemy
+pyodbc
+watchdog
+pywin32
