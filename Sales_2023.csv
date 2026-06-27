@@ -1,0 +1,366 @@
+Order_ID,Order_Date,Product_Category,Product_Name,Price,Quantity,Total_Amount,Customer_City,Rating,Payment_Method
+ORD000001,01-01-2023,Beauty,Pressure Cooker,15718.75,9,141468.75,Hyderabad,4.5,Wallet
+ORD000002,02-01-2023,Sports,Cricket Bat,28190.06,6,169140.36,Hyderabad,4.4,Cash on Delivery
+ORD000003,03-01-2023,Home & Kitchen,Jeans,46670.25,9,420032.25,Hyderabad,4,Credit Card
+ORD000004,04-01-2023,Sports,Headphones,15639.98,9,140759.82,Indore,3.9,Wallet
+ORD000005,05-01-2023,Sports,Jeans,2907.06,7,20349.42,Delhi,4.1,UPI
+ORD000006,06-01-2023,Fashion,Cricket Bat,33943.57,8,271548.56,Delhi,3.6,Wallet
+ORD000007,07-01-2023,Home & Kitchen,Jeans,39448.64,2,78897.28,Delhi,4.8,Cash on Delivery
+ORD000008,08-01-2023,Home & Kitchen,Football,47914.49,5,239572.45,Hyderabad,4.6,Wallet
+ORD000009,09-01-2023,Home & Kitchen,Mixer,8311.14,3,24933.42,Ahmedabad,4.6,Cash on Delivery
+ORD000010,10-01-2023,Sports,Cricket Bat,19910.93,1,19910.93,Hyderabad,3.9,Credit Card
+ORD000011,11-01-2023,Beauty,Pressure Cooker,42284.95,6,253709.7,Indore,3.1,UPI
+ORD000012,12-01-2023,Home & Kitchen,T-shirt,40440.13,9,363961.17,Indore,4.4,Cash on Delivery
+ORD000013,13-01-2023,Sports,Pressure Cooker,31427.39,2,62854.78,Pune,3.7,UPI
+ORD000014,14-01-2023,Fashion,Mixer,13833.74,9,124503.66,Hyderabad,4.7,Credit Card
+ORD000015,15-01-2023,Beauty,Face Cream,14559.75,8,116478,Chennai,4.6,Credit Card
+ORD000016,16-01-2023,Fashion,T-shirt,6638.15,9,59743.35,Chennai,3.3,Cash on Delivery
+ORD000017,17-01-2023,Beauty,Mixer,46131.76,5,230658.8,Pune,4.2,Wallet
+ORD000018,18-01-2023,Sports,T-shirt,9060.11,2,18120.22,Indore,4.4,UPI
+ORD000019,19-01-2023,Electronics,Face Cream,28857.89,6,173147.34,Hyderabad,4.1,Wallet
+ORD000020,20-01-2023,Beauty,Pressure Cooker,29425.4,7,205977.8,Delhi,4,UPI
+ORD000021,21-01-2023,Fashion,Face Cream,18795.47,3,56386.41,Delhi,3.5,Credit Card
+ORD000022,22-01-2023,Sports,Cricket Bat,17949.66,6,107697.96,Chennai,3.5,Credit Card
+ORD000023,23-01-2023,Beauty,Smartphone,33595.13,6,201570.78,Chennai,4.5,Credit Card
+ORD000024,24-01-2023,Electronics,Saree,19720.74,8,157765.92,Hyderabad,3,Wallet
+ORD000025,25-01-2023,Electronics,Saree,13128.21,1,13128.21,Hyderabad,4.6,Credit Card
+ORD000026,26-01-2023,Home & Kitchen,Mixer,20257.02,4,81028.08,Delhi,4.1,Wallet
+ORD000027,27-01-2023,Home & Kitchen,Saree,40479.27,1,40479.27,Indore,4.9,Credit Card
+ORD000028,28-01-2023,Fashion,Pressure Cooker,48340.68,8,386725.44,Bangalore,5,Wallet
+ORD000029,29-01-2023,Beauty,Lipstick,31979.54,2,63959.08,Indore,4.3,Cash on Delivery
+ORD000030,30-01-2023,Beauty,Mixer,39214.01,8,313712.08,Pune,3.8,Cash on Delivery
+ORD000031,31-01-2023,Home & Kitchen,T-shirt,26874.83,3,80624.49,Delhi,4,UPI
+ORD000032,01-02-2023,Beauty,Face Cream,31428.75,8,251430,Indore,3.4,Wallet
+ORD000033,02-02-2023,Beauty,Face Cream,49410.29,6,296461.74,Delhi,3.2,Wallet
+ORD000034,03-02-2023,Electronics,Headphones,22201.73,1,22201.73,Hyderabad,4.2,Cash on Delivery
+ORD000035,04-02-2023,Home & Kitchen,Jeans,3779.61,7,26457.27,Ahmedabad,4.6,Cash on Delivery
+ORD000036,05-02-2023,Sports,Pressure Cooker,47871.84,7,335102.88,Ahmedabad,3.5,Cash on Delivery
+ORD000037,06-02-2023,Home & Kitchen,T-shirt,39756.56,6,238539.36,Bangalore,3.8,UPI
+ORD000038,07-02-2023,Sports,Lipstick,20216.36,1,20216.36,Bangalore,4.1,Cash on Delivery
+ORD000039,08-02-2023,Electronics,Headphones,49128.56,5,245642.8,Ahmedabad,4.8,UPI
+ORD000040,09-02-2023,Fashion,Saree,17604.02,1,17604.02,Pune,3.3,UPI
+ORD000041,10-02-2023,Beauty,Lipstick,18919.95,1,18919.95,Hyderabad,3.5,Cash on Delivery
+ORD000042,11-02-2023,Electronics,Mixer,30681.7,6,184090.2,Mumbai,4.8,Cash on Delivery
+ORD000043,12-02-2023,Beauty,Football,14080.2,8,112641.6,Hyderabad,3.1,Cash on Delivery
+ORD000044,13-02-2023,Fashion,Face Cream,35079.29,1,35079.29,Chennai,4.3,Wallet
+ORD000045,14-02-2023,Fashion,Laptop,8066.09,2,16132.18,Indore,4.3,Credit Card
+ORD000046,15-02-2023,Electronics,Laptop,5847.25,5,29236.25,Bangalore,3.8,Wallet
+ORD000047,16-02-2023,Fashion,Saree,26976.46,8,215811.68,Pune,3.9,UPI
+ORD000048,17-02-2023,Sports,Laptop,27996.94,4,111987.76,Hyderabad,4.7,UPI
+ORD000049,18-02-2023,Fashion,Laptop,5779.43,5,28897.15,Delhi,3.3,Credit Card
+ORD000050,19-02-2023,Beauty,T-shirt,48226.72,5,241133.6,Delhi,3.5,Credit Card
+ORD000051,20-02-2023,Beauty,T-shirt,28877.69,3,86633.07,Indore,4,Cash on Delivery
+ORD000052,21-02-2023,Beauty,Jeans,7976.23,6,47857.38,Delhi,3.8,Wallet
+ORD000053,22-02-2023,Beauty,Cricket Bat,15916.4,5,79582,Pune,4.1,Wallet
+ORD000054,23-02-2023,Sports,Saree,40111.59,2,80223.18,Ahmedabad,4.8,Wallet
+ORD000055,24-02-2023,Home & Kitchen,Laptop,26399.96,4,105599.84,Hyderabad,4.8,Credit Card
+ORD000056,25-02-2023,Electronics,Jeans,9813.34,4,39253.36,Mumbai,3.5,Wallet
+ORD000057,26-02-2023,Beauty,Saree,5591.02,7,39137.14,Pune,3.6,Credit Card
+ORD000058,27-02-2023,Fashion,Laptop,21823.33,7,152763.31,Chennai,3.3,Wallet
+ORD000059,28-02-2023,Beauty,Pressure Cooker,17202.03,9,154818.27,Delhi,4.9,Credit Card
+ORD000060,01-03-2023,Fashion,Face Cream,32967.91,2,65935.82,Hyderabad,3.8,Wallet
+ORD000061,02-03-2023,Fashion,Smartphone,46299.73,6,277798.38,Mumbai,3.9,UPI
+ORD000062,03-03-2023,Beauty,Pressure Cooker,12762.65,2,25525.3,Bangalore,4.6,Credit Card
+ORD000063,04-03-2023,Sports,Headphones,42834.08,9,385506.72,Ahmedabad,4,Cash on Delivery
+ORD000064,05-03-2023,Fashion,Saree,46062.87,2,92125.74,Pune,3.2,UPI
+ORD000065,06-03-2023,Fashion,Cricket Bat,45149.13,6,270894.78,Ahmedabad,3.9,UPI
+ORD000066,07-03-2023,Beauty,Headphones,47627.83,8,381022.64,Pune,4.3,Credit Card
+ORD000067,08-03-2023,Fashion,Jeans,42184.38,6,253106.28,Pune,4.4,Wallet
+ORD000068,09-03-2023,Fashion,Jeans,29877.56,3,89632.68,Ahmedabad,4.3,Wallet
+ORD000069,10-03-2023,Beauty,Laptop,20787.38,5,103936.9,Pune,3.2,Credit Card
+ORD000070,11-03-2023,Beauty,Headphones,24838.55,4,99354.2,Bangalore,3.6,Wallet
+ORD000071,12-03-2023,Electronics,Face Cream,43694.3,1,43694.3,Indore,4.5,Wallet
+ORD000072,13-03-2023,Sports,Laptop,15419.22,5,77096.1,Ahmedabad,4.8,Wallet
+ORD000073,14-03-2023,Sports,Saree,8383.45,5,41917.25,Chennai,3.1,Credit Card
+ORD000074,15-03-2023,Fashion,Jeans,7470.55,7,52293.85,Hyderabad,3.1,Credit Card
+ORD000075,16-03-2023,Sports,Smartphone,41436.23,7,290053.61,Hyderabad,4.3,Cash on Delivery
+ORD000076,17-03-2023,Fashion,Jeans,38193.54,2,76387.08,Delhi,4.1,Wallet
+ORD000077,18-03-2023,Electronics,T-shirt,25133.44,4,100533.76,Mumbai,3.3,Wallet
+ORD000078,19-03-2023,Beauty,Football,14106.14,1,14106.14,Chennai,4.1,Credit Card
+ORD000079,20-03-2023,Beauty,Lipstick,34041.85,5,170209.25,Mumbai,4.9,Cash on Delivery
+ORD000080,21-03-2023,Beauty,Cricket Bat,2402.44,5,12012.2,Pune,4.3,Credit Card
+ORD000081,22-03-2023,Sports,Headphones,28627.28,4,114509.12,Pune,3.9,Credit Card
+ORD000082,23-03-2023,Electronics,Laptop,20222.05,7,141554.35,Pune,4.7,Cash on Delivery
+ORD000083,24-03-2023,Sports,Lipstick,48904.05,6,293424.3,Chennai,3.4,Credit Card
+ORD000084,25-03-2023,Sports,Lipstick,25624.23,3,76872.69,Hyderabad,3.8,UPI
+ORD000085,26-03-2023,Electronics,Pressure Cooker,27837.25,2,55674.5,Hyderabad,4.1,Cash on Delivery
+ORD000086,27-03-2023,Electronics,Football,35761.95,4,143047.8,Chennai,4,Wallet
+ORD000087,28-03-2023,Electronics,Mixer,24484.65,9,220361.85,Mumbai,4.8,Wallet
+ORD000088,29-03-2023,Electronics,Pressure Cooker,11616.15,5,58080.75,Indore,3.6,Cash on Delivery
+ORD000089,30-03-2023,Beauty,Pressure Cooker,27095.25,1,27095.25,Bangalore,3.1,Wallet
+ORD000090,31-03-2023,Home & Kitchen,Cricket Bat,47241.31,3,141723.93,Bangalore,4.8,UPI
+ORD000091,01-04-2023,Home & Kitchen,T-shirt,20790.59,9,187115.31,Pune,3.4,Wallet
+ORD000092,02-04-2023,Electronics,Jeans,34142.23,7,238995.61,Delhi,3.8,Cash on Delivery
+ORD000093,03-04-2023,Home & Kitchen,Pressure Cooker,48912.69,3,146738.07,Delhi,4.1,Credit Card
+ORD000094,04-04-2023,Home & Kitchen,Saree,41581.15,1,41581.15,Indore,5,Cash on Delivery
+ORD000095,05-04-2023,Electronics,Jeans,33122.19,4,132488.76,Mumbai,4.1,Cash on Delivery
+ORD000096,06-04-2023,Home & Kitchen,T-shirt,36931.83,9,332386.47,Indore,3.9,UPI
+ORD000097,07-04-2023,Sports,Laptop,46855.92,7,327991.44,Hyderabad,4.2,Wallet
+ORD000098,08-04-2023,Fashion,Mixer,48007.73,5,240038.65,Mumbai,4.9,Cash on Delivery
+ORD000099,09-04-2023,Fashion,Jeans,48463.92,6,290783.52,Chennai,4.6,Wallet
+ORD000100,10-04-2023,Electronics,Headphones,31469.26,1,31469.26,Pune,3.3,Credit Card
+ORD000101,11-04-2023,Beauty,Cricket Bat,19543.23,7,136802.61,Bangalore,4.6,Cash on Delivery
+ORD000102,12-04-2023,Electronics,Lipstick,7091.08,5,35455.4,Delhi,4.7,Cash on Delivery
+ORD000103,13-04-2023,Beauty,Face Cream,19584.63,7,137092.41,Ahmedabad,4.4,Wallet
+ORD000104,14-04-2023,Fashion,Football,47176.3,5,235881.5,Mumbai,4.3,UPI
+ORD000105,15-04-2023,Electronics,Laptop,44544.96,5,222724.8,Mumbai,3.9,UPI
+ORD000106,16-04-2023,Sports,T-shirt,26421.15,3,79263.45,Chennai,4.3,Wallet
+ORD000107,17-04-2023,Home & Kitchen,Pressure Cooker,27081.86,5,135409.3,Pune,4.5,Cash on Delivery
+ORD000108,18-04-2023,Beauty,Saree,15791.56,8,126332.48,Pune,3.2,Credit Card
+ORD000109,19-04-2023,Home & Kitchen,Saree,22998.14,8,183985.12,Hyderabad,3.5,UPI
+ORD000110,20-04-2023,Home & Kitchen,Mixer,35865.2,2,71730.4,Pune,3.4,UPI
+ORD000111,21-04-2023,Electronics,T-shirt,20420.32,1,20420.32,Hyderabad,4.7,Credit Card
+ORD000112,22-04-2023,Home & Kitchen,Laptop,9805.2,2,19610.4,Pune,4.4,UPI
+ORD000113,23-04-2023,Sports,Headphones,27272.55,7,190907.85,Ahmedabad,3.9,Wallet
+ORD000114,24-04-2023,Home & Kitchen,Lipstick,11654.18,3,34962.54,Pune,4.7,Cash on Delivery
+ORD000115,25-04-2023,Electronics,Pressure Cooker,48727.23,8,389817.84,Bangalore,4.4,UPI
+ORD000116,26-04-2023,Sports,Face Cream,19821.83,4,79287.32,Indore,4.8,Credit Card
+ORD000117,27-04-2023,Fashion,Football,45528.42,8,364227.36,Indore,3.2,Wallet
+ORD000118,28-04-2023,Home & Kitchen,Cricket Bat,11664.92,2,23329.84,Delhi,4,Wallet
+ORD000119,29-04-2023,Electronics,Smartphone,9865.85,5,49329.25,Hyderabad,4.4,Wallet
+ORD000120,30-04-2023,Fashion,Smartphone,31036.61,6,186219.66,Hyderabad,3.4,Wallet
+ORD000121,01-05-2023,Fashion,Pressure Cooker,39079.26,1,39079.26,Ahmedabad,3.7,Cash on Delivery
+ORD000122,02-05-2023,Beauty,Laptop,28554.85,1,28554.85,Hyderabad,3.8,Wallet
+ORD000123,03-05-2023,Sports,Pressure Cooker,11874.89,9,106874.01,Indore,4.6,Wallet
+ORD000124,04-05-2023,Home & Kitchen,T-shirt,2375.77,5,11878.85,Mumbai,4,Wallet
+ORD000125,05-05-2023,Electronics,Football,31105.3,4,124421.2,Pune,4,Credit Card
+ORD000126,06-05-2023,Beauty,Smartphone,6986.34,1,6986.34,Pune,3.9,Credit Card
+ORD000127,07-05-2023,Sports,Mixer,17487.23,3,52461.69,Hyderabad,3.5,Credit Card
+ORD000128,08-05-2023,Beauty,T-shirt,33951.35,4,135805.4,Indore,4.8,Credit Card
+ORD000129,09-05-2023,Sports,Smartphone,5352.16,5,26760.8,Chennai,3.6,UPI
+ORD000130,10-05-2023,Sports,Headphones,6798.95,5,33994.75,Indore,4.1,Wallet
+ORD000131,11-05-2023,Home & Kitchen,Football,3552.48,8,28419.84,Bangalore,3.3,UPI
+ORD000132,12-05-2023,Sports,Face Cream,49805.92,3,149417.76,Hyderabad,3.9,UPI
+ORD000133,13-05-2023,Beauty,Lipstick,19660.3,7,137622.1,Ahmedabad,4.8,UPI
+ORD000134,14-05-2023,Sports,Saree,45336.86,6,272021.16,Delhi,5,Cash on Delivery
+ORD000135,15-05-2023,Home & Kitchen,T-shirt,15032.49,6,90194.94,Ahmedabad,3.7,Wallet
+ORD000136,16-05-2023,Home & Kitchen,Saree,37783.53,9,340051.77,Mumbai,3.3,Wallet
+ORD000137,17-05-2023,Beauty,Saree,11343.8,7,79406.6,Pune,3.6,UPI
+ORD000138,18-05-2023,Fashion,Football,25167.07,7,176169.49,Chennai,3.7,Credit Card
+ORD000139,19-05-2023,Fashion,Football,41318.48,1,41318.48,Indore,4.3,Cash on Delivery
+ORD000140,20-05-2023,Sports,Smartphone,40908.55,1,40908.55,Bangalore,4,UPI
+ORD000141,21-05-2023,Electronics,T-shirt,39816.9,9,358352.1,Mumbai,4.5,UPI
+ORD000142,22-05-2023,Sports,Lipstick,41274.85,9,371473.65,Chennai,4.4,Cash on Delivery
+ORD000143,23-05-2023,Beauty,Headphones,10967.88,3,32903.64,Mumbai,3.5,UPI
+ORD000144,24-05-2023,Beauty,Jeans,24369.71,8,194957.68,Bangalore,4.6,Wallet
+ORD000145,25-05-2023,Beauty,Mixer,24501.14,9,220510.26,Bangalore,4.7,Credit Card
+ORD000146,26-05-2023,Beauty,Saree,44579.87,1,44579.87,Hyderabad,4.2,Credit Card
+ORD000147,27-05-2023,Beauty,Lipstick,15196.15,3,45588.45,Delhi,4.9,Credit Card
+ORD000148,28-05-2023,Home & Kitchen,Football,46609.05,6,279654.3,Hyderabad,4.6,Credit Card
+ORD000149,29-05-2023,Fashion,Cricket Bat,22814.39,4,91257.56,Indore,4.2,UPI
+ORD000150,30-05-2023,Beauty,Cricket Bat,33654.46,8,269235.68,Pune,4.8,Credit Card
+ORD000151,31-05-2023,Electronics,Jeans,13809.71,9,124287.39,Mumbai,4.2,UPI
+ORD000152,01-06-2023,Electronics,Jeans,20809.76,7,145668.32,Hyderabad,4,Wallet
+ORD000153,02-06-2023,Electronics,Jeans,35635.15,1,35635.15,Bangalore,3.7,UPI
+ORD000154,03-06-2023,Electronics,Face Cream,25880.98,2,51761.96,Bangalore,4.8,UPI
+ORD000155,04-06-2023,Home & Kitchen,Mixer,46570.05,1,46570.05,Bangalore,3.2,UPI
+ORD000156,05-06-2023,Electronics,Mixer,36987.69,9,332889.21,Hyderabad,3.9,Cash on Delivery
+ORD000157,06-06-2023,Beauty,Headphones,28437.94,4,113751.76,Pune,4.1,Cash on Delivery
+ORD000158,07-06-2023,Sports,Saree,44390.15,8,355121.2,Indore,4.1,Cash on Delivery
+ORD000159,08-06-2023,Electronics,Laptop,33445.04,5,167225.2,Indore,4.3,Wallet
+ORD000160,09-06-2023,Home & Kitchen,Face Cream,32542.36,5,162711.8,Chennai,4,Credit Card
+ORD000161,10-06-2023,Home & Kitchen,Cricket Bat,12695.38,5,63476.9,Hyderabad,3.5,UPI
+ORD000162,11-06-2023,Electronics,Smartphone,20045.42,5,100227.1,Hyderabad,4.7,UPI
+ORD000163,12-06-2023,Sports,Smartphone,34323.53,3,102970.59,Ahmedabad,4.3,Credit Card
+ORD000164,13-06-2023,Electronics,Jeans,44643.69,6,267862.14,Hyderabad,4.7,Cash on Delivery
+ORD000165,14-06-2023,Home & Kitchen,Pressure Cooker,16119.6,1,16119.6,Hyderabad,3.6,Wallet
+ORD000166,15-06-2023,Fashion,Cricket Bat,11166.54,8,89332.32,Bangalore,4.3,UPI
+ORD000167,16-06-2023,Beauty,Laptop,29887.95,4,119551.8,Pune,4.4,Credit Card
+ORD000168,17-06-2023,Home & Kitchen,Face Cream,3826.26,6,22957.56,Delhi,3.8,Cash on Delivery
+ORD000169,18-06-2023,Electronics,Laptop,35869.81,2,71739.62,Hyderabad,4.6,Wallet
+ORD000170,19-06-2023,Beauty,Smartphone,35305.36,2,70610.72,Ahmedabad,3,Credit Card
+ORD000171,20-06-2023,Electronics,Pressure Cooker,18070.82,8,144566.56,Hyderabad,4.2,Credit Card
+ORD000172,21-06-2023,Electronics,Laptop,44687.54,1,44687.54,Delhi,4.2,UPI
+ORD000173,22-06-2023,Fashion,Cricket Bat,25357.97,8,202863.76,Ahmedabad,4.1,Wallet
+ORD000174,23-06-2023,Beauty,Saree,32465.37,1,32465.37,Hyderabad,4.3,Wallet
+ORD000175,24-06-2023,Beauty,Lipstick,10874.13,9,97867.17,Pune,3.3,Cash on Delivery
+ORD000176,25-06-2023,Fashion,Pressure Cooker,21158.35,1,21158.35,Delhi,4.4,Cash on Delivery
+ORD000177,26-06-2023,Home & Kitchen,Laptop,43189.67,4,172758.68,Bangalore,3.7,UPI
+ORD000178,27-06-2023,Electronics,Football,11040.51,9,99364.59,Chennai,3.9,Wallet
+ORD000179,28-06-2023,Sports,Pressure Cooker,19833.43,1,19833.43,Hyderabad,3.7,Cash on Delivery
+ORD000180,29-06-2023,Electronics,Pressure Cooker,16244.79,9,146203.11,Chennai,3.9,Wallet
+ORD000181,30-06-2023,Electronics,Saree,7979.95,8,63839.6,Hyderabad,4.2,Credit Card
+ORD000182,01-07-2023,Home & Kitchen,Cricket Bat,14841.04,5,74205.2,Mumbai,4.7,Credit Card
+ORD000183,02-07-2023,Electronics,Face Cream,12022.23,6,72133.38,Pune,4,Credit Card
+ORD000184,03-07-2023,Fashion,Smartphone,46217.88,5,231089.4,Indore,3.6,Wallet
+ORD000185,04-07-2023,Fashion,Football,37183.4,4,148733.6,Mumbai,4,UPI
+ORD000186,05-07-2023,Beauty,Saree,16147.03,4,64588.12,Bangalore,4.4,Cash on Delivery
+ORD000187,06-07-2023,Sports,Laptop,38285.28,8,306282.24,Chennai,3.7,UPI
+ORD000188,07-07-2023,Electronics,Jeans,1595.93,8,12767.44,Chennai,3.8,UPI
+ORD000189,08-07-2023,Electronics,Saree,26562.97,9,239066.73,Delhi,4.1,UPI
+ORD000190,09-07-2023,Home & Kitchen,Jeans,12891.56,3,38674.68,Pune,3.6,UPI
+ORD000191,10-07-2023,Fashion,T-shirt,6158.94,8,49271.52,Delhi,3.4,Cash on Delivery
+ORD000192,11-07-2023,Sports,Smartphone,44246.05,3,132738.15,Hyderabad,3.3,Credit Card
+ORD000193,12-07-2023,Beauty,Cricket Bat,10367.36,2,20734.72,Delhi,3.7,Credit Card
+ORD000194,13-07-2023,Fashion,Lipstick,41208.36,2,82416.72,Delhi,3.1,Credit Card
+ORD000195,14-07-2023,Beauty,Pressure Cooker,20954.52,9,188590.68,Chennai,4.2,Wallet
+ORD000196,15-07-2023,Home & Kitchen,Jeans,1207.39,4,4829.56,Mumbai,3.4,Wallet
+ORD000197,16-07-2023,Home & Kitchen,Lipstick,36760.38,5,183801.9,Chennai,3.8,Cash on Delivery
+ORD000198,17-07-2023,Electronics,Lipstick,30019.81,2,60039.62,Pune,3.5,Cash on Delivery
+ORD000199,18-07-2023,Sports,Jeans,17536.51,9,157828.59,Delhi,4.3,Cash on Delivery
+ORD000200,19-07-2023,Beauty,Lipstick,14436.52,7,101055.64,Hyderabad,4.7,Credit Card
+ORD000201,20-07-2023,Fashion,Pressure Cooker,4147.72,3,12443.16,Mumbai,4.3,Cash on Delivery
+ORD000202,21-07-2023,Home & Kitchen,Face Cream,47100.57,6,282603.42,Ahmedabad,4.1,Credit Card
+ORD000203,22-07-2023,Electronics,Headphones,24952.25,7,174665.75,Delhi,4.3,Credit Card
+ORD000204,23-07-2023,Electronics,T-shirt,4733.46,6,28400.76,Delhi,3.1,UPI
+ORD000205,24-07-2023,Beauty,Jeans,43499.65,6,260997.9,Indore,3.2,Wallet
+ORD000206,25-07-2023,Home & Kitchen,Pressure Cooker,14302.24,8,114417.92,Ahmedabad,3.2,Wallet
+ORD000207,26-07-2023,Sports,Football,10578.33,8,84626.64,Hyderabad,3.2,Cash on Delivery
+ORD000208,27-07-2023,Home & Kitchen,Smartphone,14406.4,5,72032,Hyderabad,3.5,UPI
+ORD000209,28-07-2023,Beauty,Jeans,28446.29,4,113785.16,Delhi,4.1,Cash on Delivery
+ORD000210,29-07-2023,Beauty,Face Cream,4165.8,5,20829,Delhi,3.2,Cash on Delivery
+ORD000211,30-07-2023,Home & Kitchen,Pressure Cooker,24346.97,9,219122.73,Chennai,4.9,Wallet
+ORD000212,31-07-2023,Beauty,Pressure Cooker,44839.3,6,269035.8,Bangalore,4.7,UPI
+ORD000213,01-08-2023,Home & Kitchen,Football,9814.49,3,29443.47,Hyderabad,4.9,Cash on Delivery
+ORD000214,02-08-2023,Fashion,Saree,16893.84,3,50681.52,Pune,3.1,Cash on Delivery
+ORD000215,03-08-2023,Home & Kitchen,Headphones,20108.04,1,20108.04,Ahmedabad,4.7,Cash on Delivery
+ORD000216,04-08-2023,Home & Kitchen,Face Cream,29517.93,5,147589.65,Hyderabad,4.6,Credit Card
+ORD000217,05-08-2023,Beauty,Jeans,46003.09,6,276018.54,Pune,4.8,Wallet
+ORD000218,06-08-2023,Beauty,Football,20029.69,8,160237.52,Pune,4.1,Credit Card
+ORD000219,07-08-2023,Electronics,Cricket Bat,3923.07,9,35307.63,Ahmedabad,4.6,Cash on Delivery
+ORD000220,08-08-2023,Electronics,Pressure Cooker,17723.57,7,124064.99,Indore,3.1,UPI
+ORD000221,09-08-2023,Fashion,T-shirt,9909.23,1,9909.23,Chennai,3.2,Credit Card
+ORD000222,10-08-2023,Electronics,Saree,32762.84,7,229339.88,Ahmedabad,3.2,Credit Card
+ORD000223,11-08-2023,Home & Kitchen,Pressure Cooker,1948.47,9,17536.23,Mumbai,4.8,Cash on Delivery
+ORD000224,12-08-2023,Beauty,Jeans,14950.53,4,59802.12,Indore,3.1,Credit Card
+ORD000225,13-08-2023,Electronics,Laptop,27486.09,7,192402.63,Indore,3.2,UPI
+ORD000226,14-08-2023,Electronics,Pressure Cooker,14228.04,9,128052.36,Mumbai,4.9,UPI
+ORD000227,15-08-2023,Fashion,Mixer,27774.27,1,27774.27,Ahmedabad,3.2,Wallet
+ORD000228,16-08-2023,Fashion,Laptop,6178.26,9,55604.34,Mumbai,4.7,Wallet
+ORD000229,17-08-2023,Home & Kitchen,Pressure Cooker,47168.87,4,188675.48,Hyderabad,4.6,UPI
+ORD000230,18-08-2023,Beauty,Lipstick,14899.89,8,119199.12,Bangalore,3.1,UPI
+ORD000231,19-08-2023,Fashion,Face Cream,46188.54,3,138565.62,Ahmedabad,3,Credit Card
+ORD000232,20-08-2023,Electronics,Pressure Cooker,16628.85,2,33257.7,Bangalore,4.1,Wallet
+ORD000233,21-08-2023,Beauty,Smartphone,39201.09,8,313608.72,Pune,5,Credit Card
+ORD000234,22-08-2023,Beauty,Lipstick,12686.27,8,101490.16,Chennai,4.8,UPI
+ORD000235,23-08-2023,Electronics,Jeans,33653.56,3,100960.68,Pune,3.6,Wallet
+ORD000236,24-08-2023,Fashion,T-shirt,16523.95,8,132191.6,Mumbai,3.8,Credit Card
+ORD000237,25-08-2023,Electronics,Laptop,25703.38,6,154220.28,Mumbai,3.8,Wallet
+ORD000238,26-08-2023,Beauty,Cricket Bat,33853.8,9,304684.2,Delhi,4.5,Cash on Delivery
+ORD000239,27-08-2023,Sports,Saree,29649.68,6,177898.08,Chennai,3.7,Cash on Delivery
+ORD000240,28-08-2023,Sports,Football,29025.89,8,232207.12,Indore,3.3,Cash on Delivery
+ORD000241,29-08-2023,Home & Kitchen,T-shirt,3751.2,2,7502.4,Indore,4.5,Cash on Delivery
+ORD000242,30-08-2023,Electronics,Lipstick,12829.3,1,12829.3,Chennai,3.9,Cash on Delivery
+ORD000243,31-08-2023,Electronics,Saree,28806.04,2,57612.08,Hyderabad,3.2,Wallet
+ORD000244,01-09-2023,Home & Kitchen,Laptop,1406.7,4,5626.8,Hyderabad,4.6,UPI
+ORD000245,02-09-2023,Home & Kitchen,Cricket Bat,12906.89,9,116162.01,Chennai,4.2,Credit Card
+ORD000246,03-09-2023,Home & Kitchen,Mixer,11844.67,7,82912.69,Bangalore,4,UPI
+ORD000247,04-09-2023,Beauty,Mixer,12867.88,9,115810.92,Chennai,4.3,UPI
+ORD000248,05-09-2023,Electronics,Face Cream,27012.67,9,243114.03,Bangalore,4,UPI
+ORD000249,06-09-2023,Beauty,Cricket Bat,29307.04,9,263763.36,Hyderabad,4.3,Credit Card
+ORD000250,07-09-2023,Home & Kitchen,Saree,45495.4,8,363963.2,Pune,4.7,Cash on Delivery
+ORD000251,08-09-2023,Electronics,Jeans,19608.54,6,117651.24,Chennai,4.2,Wallet
+ORD000252,09-09-2023,Beauty,Saree,46365.66,7,324559.62,Bangalore,4.3,Wallet
+ORD000253,10-09-2023,Beauty,Face Cream,32771.74,2,65543.48,Delhi,4.2,UPI
+ORD000254,11-09-2023,Home & Kitchen,Pressure Cooker,45676.69,1,45676.69,Delhi,4.1,Wallet
+ORD000255,12-09-2023,Electronics,Saree,41756.87,5,208784.35,Chennai,3.3,Credit Card
+ORD000256,13-09-2023,Home & Kitchen,Jeans,34535.33,8,276282.64,Mumbai,3.7,UPI
+ORD000257,14-09-2023,Electronics,T-shirt,18127.24,3,54381.72,Chennai,4.4,Credit Card
+ORD000258,15-09-2023,Sports,Laptop,12434.97,7,87044.79,Hyderabad,3.9,UPI
+ORD000259,16-09-2023,Fashion,Saree,11508.38,5,57541.9,Hyderabad,3.8,Cash on Delivery
+ORD000260,17-09-2023,Fashion,Football,47632.6,8,381060.8,Ahmedabad,4.5,Wallet
+ORD000261,18-09-2023,Fashion,Laptop,47949.41,6,287696.46,Delhi,3,Wallet
+ORD000262,19-09-2023,Home & Kitchen,Lipstick,36379.15,6,218274.9,Bangalore,4.4,Credit Card
+ORD000263,20-09-2023,Sports,Mixer,44247.9,7,309735.3,Delhi,4,Wallet
+ORD000264,21-09-2023,Electronics,Mixer,45990.31,7,321932.17,Bangalore,3.8,UPI
+ORD000265,22-09-2023,Beauty,Jeans,25822.03,4,103288.12,Pune,3.7,Cash on Delivery
+ORD000266,23-09-2023,Electronics,Lipstick,31638.45,8,253107.6,Chennai,3.3,Wallet
+ORD000267,24-09-2023,Beauty,Mixer,21228.35,6,127370.1,Mumbai,3.7,Cash on Delivery
+ORD000268,25-09-2023,Electronics,Face Cream,21215.29,8,169722.32,Hyderabad,3.8,Credit Card
+ORD000269,26-09-2023,Sports,Jeans,2402.23,7,16815.61,Chennai,3.9,Cash on Delivery
+ORD000270,27-09-2023,Beauty,Saree,21974.16,1,21974.16,Delhi,4.3,Wallet
+ORD000271,28-09-2023,Home & Kitchen,Lipstick,33837.75,4,135351,Indore,3.9,Wallet
+ORD000272,29-09-2023,Electronics,Face Cream,21388.12,7,149716.84,Indore,4.6,Credit Card
+ORD000273,30-09-2023,Electronics,Pressure Cooker,43684.28,9,393158.52,Chennai,4.3,Credit Card
+ORD000274,01-10-2023,Beauty,Pressure Cooker,16961.87,2,33923.74,Mumbai,3.4,Cash on Delivery
+ORD000275,02-10-2023,Home & Kitchen,Pressure Cooker,7067.76,5,35338.8,Bangalore,3.6,Cash on Delivery
+ORD000276,03-10-2023,Home & Kitchen,T-shirt,40672.16,9,366049.44,Pune,3.2,Credit Card
+ORD000277,04-10-2023,Sports,Pressure Cooker,33860.42,9,304743.78,Mumbai,4.9,Wallet
+ORD000278,05-10-2023,Home & Kitchen,Lipstick,12470.06,6,74820.36,Delhi,4.8,Cash on Delivery
+ORD000279,06-10-2023,Home & Kitchen,Smartphone,27054.34,7,189380.38,Mumbai,3.2,Credit Card
+ORD000280,07-10-2023,Home & Kitchen,Mixer,20391.69,9,183525.21,Ahmedabad,4.1,Cash on Delivery
+ORD000281,08-10-2023,Fashion,Pressure Cooker,46973.56,8,375788.48,Hyderabad,4.9,Credit Card
+ORD000282,09-10-2023,Sports,Lipstick,30562.94,6,183377.64,Indore,4.5,Wallet
+ORD000283,10-10-2023,Electronics,Face Cream,8340.27,6,50041.62,Ahmedabad,4,Cash on Delivery
+ORD000284,11-10-2023,Beauty,Headphones,25356.35,7,177494.45,Mumbai,3.5,Cash on Delivery
+ORD000285,12-10-2023,Electronics,Face Cream,43196.56,7,302375.92,Chennai,3.6,UPI
+ORD000286,13-10-2023,Sports,Saree,33739.09,2,67478.18,Bangalore,4.5,UPI
+ORD000287,14-10-2023,Beauty,Face Cream,42201.38,9,379812.42,Hyderabad,4.6,Wallet
+ORD000288,15-10-2023,Sports,T-shirt,12894.77,4,51579.08,Hyderabad,4.1,Credit Card
+ORD000289,16-10-2023,Home & Kitchen,Laptop,44473.39,9,400260.51,Hyderabad,3.2,UPI
+ORD000290,17-10-2023,Beauty,Jeans,37902.76,3,113708.28,Ahmedabad,4.9,UPI
+ORD000291,18-10-2023,Home & Kitchen,Headphones,36581.23,5,182906.15,Delhi,4.7,Wallet
+ORD000292,19-10-2023,Electronics,Face Cream,17653.78,5,88268.9,Delhi,3.3,Credit Card
+ORD000293,20-10-2023,Electronics,Headphones,44439.07,7,311073.49,Chennai,3.1,Wallet
+ORD000294,21-10-2023,Beauty,T-shirt,32079.98,4,128319.92,Ahmedabad,4.1,Cash on Delivery
+ORD000295,22-10-2023,Beauty,Jeans,42666.05,4,170664.2,Bangalore,3.6,Cash on Delivery
+ORD000296,23-10-2023,Sports,T-shirt,18368.09,1,18368.09,Mumbai,3.6,Credit Card
+ORD000297,24-10-2023,Sports,Pressure Cooker,7709.78,6,46258.68,Chennai,3.2,UPI
+ORD000298,25-10-2023,Home & Kitchen,Laptop,16950.69,4,67802.76,Delhi,4.9,Wallet
+ORD000299,26-10-2023,Beauty,Jeans,23035.59,5,115177.95,Chennai,4.7,Wallet
+ORD000300,27-10-2023,Electronics,Lipstick,26903.67,9,242133.03,Bangalore,3.2,Cash on Delivery
+ORD000301,28-10-2023,Sports,Face Cream,25785.06,4,103140.24,Ahmedabad,4.8,Wallet
+ORD000302,29-10-2023,Sports,Face Cream,27529.7,1,27529.7,Chennai,4.4,UPI
+ORD000303,30-10-2023,Electronics,Mixer,42164.44,9,379479.96,Pune,3.7,Credit Card
+ORD000304,31-10-2023,Sports,T-shirt,8920.01,5,44600.05,Indore,4.7,Wallet
+ORD000305,01-11-2023,Home & Kitchen,Laptop,16144.54,7,113011.78,Indore,4.2,UPI
+ORD000306,02-11-2023,Beauty,Saree,44486.12,3,133458.36,Hyderabad,4.7,Credit Card
+ORD000307,03-11-2023,Electronics,Smartphone,28242.68,4,112970.72,Mumbai,3.9,Wallet
+ORD000308,04-11-2023,Beauty,Saree,29377.8,9,264400.2,Pune,4,Wallet
+ORD000309,05-11-2023,Sports,Smartphone,24164.1,1,24164.1,Delhi,3.6,Credit Card
+ORD000310,06-11-2023,Sports,Cricket Bat,27674.24,5,138371.2,Pune,3.8,Wallet
+ORD000311,07-11-2023,Electronics,Lipstick,10304.95,8,82439.6,Delhi,4.1,Wallet
+ORD000312,08-11-2023,Home & Kitchen,Cricket Bat,27569.91,7,192989.37,Indore,4.9,Wallet
+ORD000313,09-11-2023,Fashion,T-shirt,49860.07,4,199440.28,Ahmedabad,4.2,Cash on Delivery
+ORD000314,10-11-2023,Electronics,T-shirt,28519.35,7,199635.45,Bangalore,3.3,Credit Card
+ORD000315,11-11-2023,Fashion,Face Cream,2697.92,1,2697.92,Bangalore,3,Cash on Delivery
+ORD000316,12-11-2023,Fashion,Smartphone,39923.56,6,239541.36,Bangalore,4.7,Credit Card
+ORD000317,13-11-2023,Home & Kitchen,Jeans,20125.53,9,181129.77,Delhi,3.7,Cash on Delivery
+ORD000318,14-11-2023,Fashion,Football,8106.97,3,24320.91,Hyderabad,3.6,Wallet
+ORD000319,15-11-2023,Fashion,Laptop,43194.73,4,172778.92,Pune,4.6,UPI
+ORD000320,16-11-2023,Home & Kitchen,Pressure Cooker,10299.68,8,82397.44,Mumbai,4.9,Credit Card
+ORD000321,17-11-2023,Fashion,Headphones,46077.99,5,230389.95,Bangalore,4.5,UPI
+ORD000322,18-11-2023,Fashion,T-shirt,22368.93,5,111844.65,Delhi,3.3,Credit Card
+ORD000323,19-11-2023,Fashion,Cricket Bat,37268.15,1,37268.15,Hyderabad,3.8,Credit Card
+ORD000324,20-11-2023,Electronics,Cricket Bat,27576.29,6,165457.74,Bangalore,4.5,Wallet
+ORD000325,21-11-2023,Electronics,Football,13203.03,2,26406.06,Pune,4.8,Credit Card
+ORD000326,22-11-2023,Electronics,Saree,33718.96,1,33718.96,Bangalore,5,Wallet
+ORD000327,23-11-2023,Home & Kitchen,Lipstick,47916.67,6,287500.02,Mumbai,4,Wallet
+ORD000328,24-11-2023,Sports,Smartphone,38597.03,5,192985.15,Indore,4.6,Wallet
+ORD000329,25-11-2023,Fashion,Headphones,30398.89,5,151994.45,Mumbai,3.1,Cash on Delivery
+ORD000330,26-11-2023,Fashion,Smartphone,49536.09,9,445824.81,Chennai,3.6,Cash on Delivery
+ORD000331,27-11-2023,Home & Kitchen,T-shirt,13633.67,3,40901.01,Indore,3.7,Wallet
+ORD000332,28-11-2023,Fashion,Face Cream,3585.9,1,3585.9,Indore,5,UPI
+ORD000333,29-11-2023,Electronics,Mixer,2090.48,8,16723.84,Pune,3,UPI
+ORD000334,30-11-2023,Sports,Headphones,35679.05,5,178395.25,Indore,3.6,Credit Card
+ORD000335,01-12-2023,Beauty,Saree,41596.5,5,207982.5,Bangalore,4.9,UPI
+ORD000336,02-12-2023,Fashion,Cricket Bat,31937.48,8,255499.84,Chennai,3.6,Credit Card
+ORD000337,03-12-2023,Electronics,Saree,45298.82,8,362390.56,Pune,3.5,Credit Card
+ORD000338,04-12-2023,Beauty,Face Cream,35049.81,2,70099.62,Delhi,4.5,Credit Card
+ORD000339,05-12-2023,Sports,T-shirt,18862.25,3,56586.75,Pune,4.5,Cash on Delivery
+ORD000340,06-12-2023,Beauty,Mixer,9472.29,1,9472.29,Mumbai,3.9,Wallet
+ORD000341,07-12-2023,Electronics,Pressure Cooker,46270.05,3,138810.15,Indore,4.9,UPI
+ORD000342,08-12-2023,Beauty,Headphones,5628.06,4,22512.24,Indore,3.4,Wallet
+ORD000343,09-12-2023,Home & Kitchen,Football,27377.93,7,191645.51,Hyderabad,4.8,Wallet
+ORD000344,10-12-2023,Beauty,Smartphone,16043.39,9,144390.51,Bangalore,4.5,Cash on Delivery
+ORD000345,11-12-2023,Fashion,Headphones,13935.04,5,69675.2,Pune,3.7,Credit Card
+ORD000346,12-12-2023,Fashion,Cricket Bat,32468.83,1,32468.83,Bangalore,4.6,Wallet
+ORD000347,13-12-2023,Home & Kitchen,Smartphone,11946.23,2,23892.46,Chennai,3.3,Credit Card
+ORD000348,14-12-2023,Electronics,Pressure Cooker,45860.07,2,91720.14,Mumbai,3.3,Cash on Delivery
+ORD000349,15-12-2023,Fashion,Football,20599.17,9,185392.53,Indore,4.9,Wallet
+ORD000350,16-12-2023,Sports,Pressure Cooker,34030.08,7,238210.56,Indore,3.2,UPI
+ORD000351,17-12-2023,Fashion,Football,36523.91,2,73047.82,Chennai,3,Wallet
+ORD000352,18-12-2023,Fashion,Lipstick,34305.61,1,34305.61,Pune,3.8,Cash on Delivery
+ORD000353,19-12-2023,Electronics,Smartphone,45218.31,5,226091.55,Bangalore,3.2,Cash on Delivery
+ORD000354,20-12-2023,Beauty,Laptop,11940.98,1,11940.98,Mumbai,4.7,Wallet
+ORD000355,21-12-2023,Fashion,Mixer,4759.7,9,42837.3,Bangalore,4.8,UPI
+ORD000356,22-12-2023,Home & Kitchen,Laptop,3245.55,3,9736.65,Mumbai,4,Credit Card
+ORD000357,23-12-2023,Beauty,Pressure Cooker,43953.29,2,87906.58,Pune,3.9,Wallet
+ORD000358,24-12-2023,Sports,Smartphone,48677.71,6,292066.26,Bangalore,4.1,Wallet
+ORD000359,25-12-2023,Electronics,Lipstick,15475.06,3,46425.18,Hyderabad,3.5,UPI
+ORD000360,26-12-2023,Sports,Headphones,34828.94,5,174144.7,Indore,3.6,UPI
+ORD000361,27-12-2023,Beauty,Headphones,941.18,8,7529.44,Pune,3.2,Cash on Delivery
+ORD000362,28-12-2023,Beauty,Headphones,9837.26,2,19674.52,Pune,3.9,Credit Card
+ORD000363,29-12-2023,Beauty,Face Cream,34619.08,5,173095.4,Chennai,4.2,Credit Card
+ORD000364,30-12-2023,Sports,Lipstick,3761.41,8,30091.28,Ahmedabad,4.9,Wallet
+ORD000365,31-12-2023,Beauty,Face Cream,23691.25,1,23691.25,Ahmedabad,4.5,Credit Card
