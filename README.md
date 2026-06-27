@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+
+![Pandas](https://img.shields.io/badge/Pandas-Latest-green)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red)
+
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🛒 Ecommerce Sales Automation Pipeline
 
 An end-to-end Python automation project that processes E-commerce sales data from CSV files, performs business analysis, generates Excel reports, integrates with SQL Server, automates email reporting, monitors folders in real time, and builds an ETL pipeline.
@@ -22,7 +32,22 @@ The automation pipeline covers:
 - Real-time folder monitoring
 - Logging & Error Handling
 - ETL Pipeline
+  
+---
 
+# Table of Contents
+
+- Project Objective
+- Technologies Used
+- Project Structure
+- Automation Levels
+- KPI Generated
+- Workflow
+- Screenshots
+- Installation
+- Future Enhancements
+- Author
+  
 ---
 
 # 🚀 Technologies Used
@@ -202,50 +227,48 @@ Complete ETL Process
 
 # 📈 Automation Workflow
 
+```mermaid
+flowchart TD
+
+A[CSV Files]
+
+B[Pandas]
+
+C[Data Cleaning]
+
+D[KPI Calculation]
+
+E[Excel Reports]
+
+F[SQL Server]
+
+G[SQLAlchemy]
+
+H[Email Automation]
+
+I[Folder Monitoring]
+
+J[ETL Pipeline]
+
+A --> B
+
+B --> C
+
+C --> D
+
+D --> E
+
+E --> F
+
+F --> G
+
+G --> H
+
+H --> I
+
+I --> J
+
 ```
-CSV Files
-
-↓
-
-Pandas
-
-↓
-
-Cleaning
-
-↓
-
-Transformation
-
-↓
-
-Business KPIs
-
-↓
-
-Excel Reports
-
-↓
-
-SQL Server
-
-↓
-
-SQLAlchemy
-
-↓
-
-Email Automation
-
-↓
-
-Folder Monitoring
-
-↓
-
-ETL Pipeline
-```
-
 ---
 
 # 📸 Project Screenshots
