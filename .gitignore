@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Log files
+*.log
+
+# Excel temporary files
+~$*.xlsx
+
+# Windows
+Thumbs.db
+Desktop.ini
