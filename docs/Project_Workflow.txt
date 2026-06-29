@@ -1,0 +1,76 @@
+=============================================
+END-TO-END ECOMMERCE SALES AUTOMATION WORKFLOW
+=============================================
+
+Step 1
+Read CSV Files
+
+↓
+
+Step 2
+Merge Multiple Files
+
+↓
+
+Step 3
+Clean & Transform Data
+
+↓
+
+Step 4
+Calculate Business KPIs
+
+↓
+
+Step 5
+Generate Excel Reports
+
+↓
+
+Step 6
+Connect SQL Server
+
+↓
+
+Step 7
+Read SQL Data using SQLAlchemy
+
+↓
+
+Step 8
+Send Reports via Outlook Email
+
+↓
+
+Step 9
+Schedule Automation using Windows Task Scheduler
+
+↓
+
+Step 10
+Monitor Folder for New CSV Files
+
+↓
+
+Step 11
+Logging & Error Handling
+
+↓
+
+Step 12
+SQLAlchemy Database Automation
+
+↓
+
+Step 13
+End-to-End ETL Pipeline
+
+---------------------------------------------
+
+Final Outputs
+
+• Excel Reports
+• SQL Reports
+• ETL Logs
+• Email Notifications
+• Live Folder Monitoring
